@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix Gilbert Cagatin</h1>
 <h3 align="center">MERN Stack Developer. UCSD Alumni currently taking UCR's Full Stack Coding Bootcamp!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatin" alt="cagatin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagatin&theme=onedark" alt="cagatin" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
