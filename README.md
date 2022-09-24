@@ -1,9 +1,9 @@
-# About Me:
+# About Me
 • UC San Deigo Alumnus<br>• Currently taking the UC Riverside Full Stack Coding Bootcamp course<br>• Aspiring MERN Stack Developer/Software Engineer<br>• Javascript | Python | Java <br>• Avocado enthusiast | Dog Lover | Lakers Superfan <br>• View my [Portfolio](https://cagatin.github.io/Professional-Portfolio/)!
 
 
 
-## Connect With Me!:
+## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilbertcagatin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codewithfelix) 
 
 # 💻 Tech Stack:
