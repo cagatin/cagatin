@@ -1,4 +1,5 @@
-# ✨ About Me:
+# Felix Cagatin, Full Stack Developer
+## ✨ About Me:
 • UC San Deigo Alumnus<br>• Currently taking the UC Riverside Full Stack Coding Bootcamp course<br>• Aspiring MERN Stack Developer/Software Engineer<br>• Javascript | Python | Java <br>• Avocado enthusiast | Dog Lover | Lakers Superfan <br>• View my [Portfolio](https://cagatin.github.io/Professional-Portfolio/)!
 
 
